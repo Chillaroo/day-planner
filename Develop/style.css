@@ -63,6 +63,8 @@ textarea {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
+  margin: 0 auto;
+  display: block;
 }
 
 .saveBtn i:hover {
@@ -76,4 +78,13 @@ textarea {
 
 .activity{
   width: 90%;
+}
+
+input{
+  width: 100%;
+  border: none;
+  margin: none;
+  padding: none;
+  height: 100%;
+  font-size: large;
 }
