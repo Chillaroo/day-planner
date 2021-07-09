@@ -2,4 +2,4 @@ The "Work Day Scheduler" is a simple calendar app for scheduling your work day. 
 
 Here is a link to the deployed URL: https://chillaroo.github.io/day-planner/Develop/index.html
 
-Here is a screenshot of the application: ![](./assets/screenshot.png)
+Here is a screenshot of the application: ![](./Assets/screenshot.png)
